@@ -1,0 +1,27 @@
+body{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: "Helvitina", "Lucida Grande", sans-serif;
+    color: rgb(87, 99, 102);
+    background-color: rgb(120, 221, 247);
+}
+h1{
+    padding: 10px;
+    background-color:red;
+}
+h2{
+    
+    border-bottom: 2px solid red;
+}
+figure{
+    padding: 15px;
+    margin: 30px;
+    text-align: center;
+    background-color:black;
+    border: 2px solid lightgray;
+}
+figcaption{
+    margin-top: 10px;
+}
